@@ -1,0 +1,133 @@
+com/example/b07project/Presenter.java
+ com.example.b07project.Presenter
+com/example/b07project/user_information/Person.java
+ com.example.b07project.user_information.Person
+com/example/b07project/user_information/Doctor.java
+ com.example.b07project.user_information.Doctor
+com/example/b07project/appointment_activities/Appointment.java
+ com.example.b07project.appointment_activities.Appointment
+com/example/b07project/Model.java
+ com.example.b07project.Model
+ com.example.b07project.Model$1
+com/example/b07project/user_information/Patient.java
+ com.example.b07project.user_information.Patient
+com/example/b07project/BuildConfig.java
+ com.example.b07project.BuildConfig
+com/example/b07project/user_information/HealthInformation.java
+ com.example.b07project.user_information.HealthInformation
+com/example/b07project/databinding/ActivityDoctorBinding.java
+ com.example.b07project.databinding.ActivityDoctorBinding
+com/example/b07project/MainActivity.java
+ com.example.b07project.MainActivity
+com/example/b07project/appointment_activities/PatientViewPastAppointmentActivity.java
+ com.example.b07project.appointment_activities.PatientViewPastAppointmentActivity
+ com.example.b07project.appointment_activities.PatientViewPastAppointmentActivity$1
+ com.example.b07project.appointment_activities.PatientViewPastAppointmentActivity$2
+com/example/b07project/databinding/FragmentFirstBinding.java
+ com.example.b07project.databinding.FragmentFirstBinding
+com/example/b07project/databinding/ContentDoctorSignupBinding.java
+ com.example.b07project.databinding.ContentDoctorSignupBinding
+com/example/b07project/databinding/ActivityPatientChooseDoctorBinding.java
+ com.example.b07project.databinding.ActivityPatientChooseDoctorBinding
+com/example/b07project/user_information/DoctorActivity.java
+ com.example.b07project.user_information.DoctorActivity
+ com.example.b07project.user_information.DoctorActivity$1
+ com.example.b07project.user_information.DoctorActivity$1$1
+ com.example.b07project.user_information.DoctorActivity$2
+com/example/b07project/databinding/ActivityMainBinding.java
+ com.example.b07project.databinding.ActivityMainBinding
+com/example/b07project/user_information/PatientActivity.java
+ com.example.b07project.user_information.PatientActivity
+ com.example.b07project.user_information.PatientActivity$1
+ com.example.b07project.user_information.PatientActivity$1$1
+ com.example.b07project.user_information.PatientActivity$2
+com/example/b07project/user_information/DoctorSignup.java
+ com.example.b07project.user_information.DoctorSignup
+ com.example.b07project.user_information.DoctorSignup$1
+ com.example.b07project.user_information.DoctorSignup$2
+ com.example.b07project.user_information.DoctorSignup$3
+ com.example.b07project.user_information.DoctorSignup$3$1
+ com.example.b07project.user_information.DoctorSignup$3$1$1
+ com.example.b07project.user_information.DoctorSignup$3$2
+ com.example.b07project.user_information.DoctorSignup$4
+com/example/b07project/fragments/SecondFragment.java
+ com.example.b07project.fragments.SecondFragment
+ com.example.b07project.fragments.SecondFragment$1
+com/example/b07project/databinding/ActivityPatientSignupBinding.java
+ com.example.b07project.databinding.ActivityPatientSignupBinding
+com/example/b07project/appointment_activities/PatientChooseDoctorActivity.java
+ com.example.b07project.appointment_activities.PatientChooseDoctorActivity
+ com.example.b07project.appointment_activities.PatientChooseDoctorActivity$1
+ com.example.b07project.appointment_activities.PatientChooseDoctorActivity$1$1
+ com.example.b07project.appointment_activities.PatientChooseDoctorActivity$2
+com/example/b07project/appointment_activities/DoctorViewAppointmentActivity.java
+ com.example.b07project.appointment_activities.DoctorViewAppointmentActivity
+ com.example.b07project.appointment_activities.DoctorViewAppointmentActivity$1
+ com.example.b07project.appointment_activities.DoctorViewAppointmentActivity$2
+com/example/b07project/databinding/ActivityDoctorViewAvailabilityBinding.java
+ com.example.b07project.databinding.ActivityDoctorViewAvailabilityBinding
+com/example/b07project/user_information/PatientSignup.java
+ com.example.b07project.user_information.PatientSignup
+ com.example.b07project.user_information.PatientSignup$1
+ com.example.b07project.user_information.PatientSignup$2
+ com.example.b07project.user_information.PatientSignup$2$1
+ com.example.b07project.user_information.PatientSignup$2$1$1
+ com.example.b07project.user_information.PatientSignup$2$2
+ com.example.b07project.user_information.PatientSignup$3
+com/example/b07project/user_information/DoctorPatientCheckupActivity.java
+ com.example.b07project.user_information.DoctorPatientCheckupActivity
+ com.example.b07project.user_information.DoctorPatientCheckupActivity$1
+ com.example.b07project.user_information.DoctorPatientCheckupActivity$2
+ com.example.b07project.user_information.DoctorPatientCheckupActivity$3
+com/example/b07project/databinding/ActivityDoctorViewAppointmentBinding.java
+ com.example.b07project.databinding.ActivityDoctorViewAppointmentBinding
+com/example/b07project/appointment_activities/PatientBookAppointmentActivity.java
+ com.example.b07project.appointment_activities.PatientBookAppointmentActivity
+ com.example.b07project.appointment_activities.PatientBookAppointmentActivity$1
+ com.example.b07project.appointment_activities.PatientBookAppointmentActivity$2
+ com.example.b07project.appointment_activities.PatientBookAppointmentActivity$2$1
+ com.example.b07project.appointment_activities.PatientBookAppointmentActivity$3
+com/example/b07project/databinding/FragmentSecondBinding.java
+ com.example.b07project.databinding.FragmentSecondBinding
+com/example/b07project/appointment_activities/DoctorViewAvailabilityActivity.java
+ com.example.b07project.appointment_activities.DoctorViewAvailabilityActivity
+ com.example.b07project.appointment_activities.DoctorViewAvailabilityActivity$1
+ com.example.b07project.appointment_activities.DoctorViewAvailabilityActivity$2
+com/example/b07project/databinding/ActivityDoctorSignupBinding.java
+ com.example.b07project.databinding.ActivityDoctorSignupBinding
+com/example/b07project/databinding/ActivityLoginPageBinding.java
+ com.example.b07project.databinding.ActivityLoginPageBinding
+com/example/b07project/databinding/ActivityPatientViewAppointmentBinding.java
+ com.example.b07project.databinding.ActivityPatientViewAppointmentBinding
+com/example/b07project/databinding/ContentScrollingBinding.java
+ com.example.b07project.databinding.ContentScrollingBinding
+com/example/b07project/appointment_activities/PatientViewAppointmentActivity.java
+ com.example.b07project.appointment_activities.PatientViewAppointmentActivity
+ com.example.b07project.appointment_activities.PatientViewAppointmentActivity$1
+ com.example.b07project.appointment_activities.PatientViewAppointmentActivity$2
+com/example/b07project/databinding/ActivityDoctorPatientCheckupBinding.java
+ com.example.b07project.databinding.ActivityDoctorPatientCheckupBinding
+com/example/b07project/LoginPage.java
+ com.example.b07project.LoginPage
+ com.example.b07project.LoginPage$1
+ com.example.b07project.LoginPage$2
+ com.example.b07project.LoginPage$3
+ com.example.b07project.LoginPage$4
+ com.example.b07project.LoginPage$4$1
+ com.example.b07project.LoginPage$4$1$1
+ com.example.b07project.LoginPage$4$2
+com/example/b07project/databinding/ActivityPatientBookAppointmentBinding.java
+ com.example.b07project.databinding.ActivityPatientBookAppointmentBinding
+com/example/b07project/databinding/ActivityPatientViewVisitedDoctorsBinding.java
+ com.example.b07project.databinding.ActivityPatientViewVisitedDoctorsBinding
+com/example/b07project/fragments/FirstFragment.java
+ com.example.b07project.fragments.FirstFragment
+ com.example.b07project.fragments.FirstFragment$1
+com/example/b07project/databinding/ActivityPatientViewPastAppointmentBinding.java
+ com.example.b07project.databinding.ActivityPatientViewPastAppointmentBinding
+com/example/b07project/databinding/ActivityPatientBinding.java
+ com.example.b07project.databinding.ActivityPatientBinding
+com/example/b07project/user_information/PatientViewVisitedDoctorsActivity.java
+ com.example.b07project.user_information.PatientViewVisitedDoctorsActivity
+ com.example.b07project.user_information.PatientViewVisitedDoctorsActivity$1
+ com.example.b07project.user_information.PatientViewVisitedDoctorsActivity$2

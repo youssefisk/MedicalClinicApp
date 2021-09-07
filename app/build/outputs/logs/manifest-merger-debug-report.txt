@@ -1,0 +1,597 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:2:1-46:12
+MERGED from [androidx.databinding:viewbinding:7.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/dc84fad26d91a9d900bd343ba9b34f20/transformed/viewbinding-7.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /Users/youssefiskander/.gradle/caches/transforms-3/3f378bb1cd3c70fad0ba6e2d293872ee/transformed/navigation-ui-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/youssefiskander/.gradle/caches/transforms-3/20481632158d3e6823a3f78f8a22dc4e/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/youssefiskander/.gradle/caches/transforms-3/bc74773df9b689d9730e5879605f9f2c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/3ee1862cced42bd0bc44f2880db8f242/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:20.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/7221a69688f936019a5fc568a60a8c8f/transformed/firebase-database-20.0.1/AndroidManifest.xml:15:1-38:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /Users/youssefiskander/.gradle/caches/transforms-3/5348620827d29f0487abee13d1ec00c6/transformed/navigation-fragment-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:17:1-83:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/de148e248a6a02749480d8bad9640882/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/youssefiskander/.gradle/caches/transforms-3/2ba35d699764ec83b211e1b7004ec590/transformed/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b98a2bab0a41a0cc75d70637fa9afb16/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] /Users/youssefiskander/.gradle/caches/transforms-3/2f6c494c599dda6ee341229fcd8e8303/transformed/firebase-appcheck-interop-16.0.0-beta02/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/efe05462eb2d4164352e1505481570d9/transformed/firebase-database-collection-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/292e81c80ab23544aa4642a5030268c1/transformed/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f50037d2f0dc0c26c3fec7535fbfa4b9/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b506e1c9e863853d36377b285ee3473e/transformed/firebase-analytics-19.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2043457c7833b1db69044f4754b0ef/transformed/firebase-installations-17.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3434c465fd4c5a7cef643cedf90e31fb/transformed/firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/0cee017d82e19203f3e258ee7d46037b/transformed/firebase-installations-interop-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2d652dd5c167d95ef0c23b90e3a801/transformed/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/e22ec2a86bc857a0246d51a8a16b04d5/transformed/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b15c612b686a98e6e26393e875ce4dd2/transformed/play-services-measurement-impl-19.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/bd31689b3cc0de059dbd681816ea9d82/transformed/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f8266185c802609dfa880cbc6dbf0087/transformed/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/dbf6f221e1a6d0464fb9861d7cdd5a93/transformed/play-services-measurement-base-19.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/444a5b3b3cdbae4d2e521c5d819a48b3/transformed/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/895fc85a8816eba2d8323c3040a812e9/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/1243b41399fe91fad0eda836f5d09fc2/transformed/play-services-basement-17.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/youssefiskander/.gradle/caches/transforms-3/5bbbbfddecb682ccd678abd0d06605d1/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /Users/youssefiskander/.gradle/caches/transforms-3/5e32d2701d1e556eac05badb47d3711e/transformed/navigation-runtime-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/youssefiskander/.gradle/caches/transforms-3/bcd9de11b2a200f975afca59611e23ea/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/cada2ec9cf0d559236be88eb6a51cd2d/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/0ea2368076fad891bc70a0a9ecb720ec/transformed/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3ce9b9fb0a171df1b019c291e6c75dc9/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/c9f24c50d501d216174de629b40a5e33/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/e0df456009e06b851d1353ff5b9e7d0c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/f5f7a1d03e47e040ae9e2a271cc5a482/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/17e62d291c290875292013b1fa16447b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/d21e2ca777cfbfdfb6d09db5fa4a49fc/transformed/drawerlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/youssefiskander/.gradle/caches/transforms-3/a01d9cb78215da8a68b8a7c94f9736b6/transformed/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/229421394c395a01f711c94f375d0384/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/b56f98a9c85118ecf9a4d033222d5966/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/90eb3332d2828bda796aefec4f2ed29f/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/ee232d44c171c639e1d7a8813446ddf1/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/46c7afe2f779c98cd40b0baf421fa70d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3f9c5c364e313da4c551d4e576805158/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.3.0] /Users/youssefiskander/.gradle/caches/transforms-3/e68590959865ae70a1cf85e30dac5bfa/transformed/navigation-common-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/61e996d0b4adf17483f1ea505f9e64e7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/1605deb2d9935df5a1bd1d601b15df28/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/youssefiskander/.gradle/caches/transforms-3/68bce1ad376ed5b9406899de4e9966ab/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/901338864ae6c6e45e8b80fe7ced7147/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/fe1f519b2e37fa2d39bf8195a09592b9/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/d66d550817bb214b0a87885f76bce415/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/1a5a7a9882e9f48e061155f2b0d52ca1/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/youssefiskander/.gradle/caches/transforms-3/bb72f5c9a8b2888f1feb2b48171fef34/transformed/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/7a01b143b28a9a9b38b3d65a41c235a0/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/96533eb509fa457ff212fe655c1822d8/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/0adfb8c3c35fa2a2bc791b132f3e9558/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f9a4b49c60dc754e68cf9e0157dd0927/transformed/firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/youssefiskander/.gradle/caches/transforms-3/ceda8dd758a1ec94e31b90c3a654dd6c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/8501c8a826f012f3dac1cdb29b8a227a/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/youssefiskander/.gradle/caches/transforms-3/e23c6ade7c43a1a21c7e200cfdf4fbf0/transformed/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/youssefiskander/.gradle/caches/transforms-3/7cf58a6351c126c52b4cc35f1101f4be/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/youssefiskander/.gradle/caches/transforms-3/2f764e2cba547f7c3ee4440361944487/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/26bc3f3259bd58376c8c8b4820af4eab/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/dbd2a606c73b270779b5c9be90991f0d/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/12668bb07e7f24d0585fa902ab338913/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/4b267d7f2967f86d5ee14ee839c09df8/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/e4f6e5452622a1b51bd4ab0c44c2db1c/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/25f35b40da736ef9bbb6e353ad748032/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:5:5-44:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/youssefiskander/.gradle/caches/transforms-3/20481632158d3e6823a3f78f8a22dc4e/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/youssefiskander/.gradle/caches/transforms-3/20481632158d3e6823a3f78f8a22dc4e/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/youssefiskander/.gradle/caches/transforms-3/bc74773df9b689d9730e5879605f9f2c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/youssefiskander/.gradle/caches/transforms-3/bc74773df9b689d9730e5879605f9f2c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:20.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/7221a69688f936019a5fc568a60a8c8f/transformed/firebase-database-20.0.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/7221a69688f936019a5fc568a60a8c8f/transformed/firebase-database-20.0.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b98a2bab0a41a0cc75d70637fa9afb16/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b98a2bab0a41a0cc75d70637fa9afb16/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] /Users/youssefiskander/.gradle/caches/transforms-3/2f6c494c599dda6ee341229fcd8e8303/transformed/firebase-appcheck-interop-16.0.0-beta02/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] /Users/youssefiskander/.gradle/caches/transforms-3/2f6c494c599dda6ee341229fcd8e8303/transformed/firebase-appcheck-interop-16.0.0-beta02/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/292e81c80ab23544aa4642a5030268c1/transformed/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/292e81c80ab23544aa4642a5030268c1/transformed/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f50037d2f0dc0c26c3fec7535fbfa4b9/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f50037d2f0dc0c26c3fec7535fbfa4b9/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b506e1c9e863853d36377b285ee3473e/transformed/firebase-analytics-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b506e1c9e863853d36377b285ee3473e/transformed/firebase-analytics-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2043457c7833b1db69044f4754b0ef/transformed/firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2043457c7833b1db69044f4754b0ef/transformed/firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3434c465fd4c5a7cef643cedf90e31fb/transformed/firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3434c465fd4c5a7cef643cedf90e31fb/transformed/firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2d652dd5c167d95ef0c23b90e3a801/transformed/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2d652dd5c167d95ef0c23b90e3a801/transformed/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/e22ec2a86bc857a0246d51a8a16b04d5/transformed/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/e22ec2a86bc857a0246d51a8a16b04d5/transformed/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b15c612b686a98e6e26393e875ce4dd2/transformed/play-services-measurement-impl-19.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b15c612b686a98e6e26393e875ce4dd2/transformed/play-services-measurement-impl-19.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/bd31689b3cc0de059dbd681816ea9d82/transformed/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/bd31689b3cc0de059dbd681816ea9d82/transformed/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/dbf6f221e1a6d0464fb9861d7cdd5a93/transformed/play-services-measurement-base-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/dbf6f221e1a6d0464fb9861d7cdd5a93/transformed/play-services-measurement-base-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/444a5b3b3cdbae4d2e521c5d819a48b3/transformed/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/444a5b3b3cdbae4d2e521c5d819a48b3/transformed/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/895fc85a8816eba2d8323c3040a812e9/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/895fc85a8816eba2d8323c3040a812e9/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/1243b41399fe91fad0eda836f5d09fc2/transformed/play-services-basement-17.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/1243b41399fe91fad0eda836f5d09fc2/transformed/play-services-basement-17.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] /Users/youssefiskander/.gradle/caches/transforms-3/68bce1ad376ed5b9406899de4e9966ab/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/youssefiskander/.gradle/caches/transforms-3/68bce1ad376ed5b9406899de4e9966ab/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/youssefiskander/.gradle/caches/transforms-3/ceda8dd758a1ec94e31b90c3a654dd6c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/youssefiskander/.gradle/caches/transforms-3/ceda8dd758a1ec94e31b90c3a654dd6c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/youssefiskander/.gradle/caches/transforms-3/68bce1ad376ed5b9406899de4e9966ab/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:11:9-48
+activity#com.example.b07project.user_information.PatientViewVisitedDoctorsActivity
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:12:9-14:39
+	android:exported
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:13:13-79
+activity#com.example.b07project.appointment_activities.PatientViewPastAppointmentActivity
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:15:9-17:39
+	android:exported
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:16:13-86
+activity#com.example.b07project.appointment_activities.DoctorViewAvailabilityActivity
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:18:9-20:39
+	android:exported
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:19:13-82
+activity#com.example.b07project.user_information.DoctorPatientCheckupActivity
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:21:9-23:39
+	android:exported
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:22:13-74
+activity#com.example.b07project.appointment_activities.PatientBookAppointmentActivity
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:25:13-82
+activity#com.example.b07project.appointment_activities.DoctorViewAppointmentActivity
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:27:9-29:39
+	android:exported
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:28:13-81
+activity#com.example.b07project.appointment_activities.PatientViewAppointmentActivity
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:30:9-91
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:30:19-88
+activity#com.example.b07project.appointment_activities.PatientChooseDoctorActivity
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:31:9-88
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:31:19-85
+activity#com.example.b07project.user_information.PatientActivity
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:32:9-70
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:32:19-67
+activity#com.example.b07project.user_information.DoctorActivity
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:33:9-69
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:33:19-66
+activity#com.example.b07project.user_information.PatientSignup
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:34:9-68
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:34:19-65
+activity#com.example.b07project.user_information.DoctorSignup
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:35:9-67
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:35:19-64
+activity#com.example.b07project.LoginPage
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:36:9-47
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:36:19-44
+activity#com.example.b07project.MainActivity
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:37:9-43:20
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:37:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml:41:27-74
+uses-sdk
+INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/dc84fad26d91a9d900bd343ba9b34f20/transformed/viewbinding-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/dc84fad26d91a9d900bd343ba9b34f20/transformed/viewbinding-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /Users/youssefiskander/.gradle/caches/transforms-3/3f378bb1cd3c70fad0ba6e2d293872ee/transformed/navigation-ui-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /Users/youssefiskander/.gradle/caches/transforms-3/3f378bb1cd3c70fad0ba6e2d293872ee/transformed/navigation-ui-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/youssefiskander/.gradle/caches/transforms-3/20481632158d3e6823a3f78f8a22dc4e/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/youssefiskander/.gradle/caches/transforms-3/20481632158d3e6823a3f78f8a22dc4e/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/youssefiskander/.gradle/caches/transforms-3/bc74773df9b689d9730e5879605f9f2c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/youssefiskander/.gradle/caches/transforms-3/bc74773df9b689d9730e5879605f9f2c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/3ee1862cced42bd0bc44f2880db8f242/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/3ee1862cced42bd0bc44f2880db8f242/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:20.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/7221a69688f936019a5fc568a60a8c8f/transformed/firebase-database-20.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/7221a69688f936019a5fc568a60a8c8f/transformed/firebase-database-20.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /Users/youssefiskander/.gradle/caches/transforms-3/5348620827d29f0487abee13d1ec00c6/transformed/navigation-fragment-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /Users/youssefiskander/.gradle/caches/transforms-3/5348620827d29f0487abee13d1ec00c6/transformed/navigation-fragment-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/de148e248a6a02749480d8bad9640882/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/de148e248a6a02749480d8bad9640882/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/youssefiskander/.gradle/caches/transforms-3/2ba35d699764ec83b211e1b7004ec590/transformed/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/youssefiskander/.gradle/caches/transforms-3/2ba35d699764ec83b211e1b7004ec590/transformed/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b98a2bab0a41a0cc75d70637fa9afb16/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b98a2bab0a41a0cc75d70637fa9afb16/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] /Users/youssefiskander/.gradle/caches/transforms-3/2f6c494c599dda6ee341229fcd8e8303/transformed/firebase-appcheck-interop-16.0.0-beta02/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] /Users/youssefiskander/.gradle/caches/transforms-3/2f6c494c599dda6ee341229fcd8e8303/transformed/firebase-appcheck-interop-16.0.0-beta02/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/efe05462eb2d4164352e1505481570d9/transformed/firebase-database-collection-18.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/efe05462eb2d4164352e1505481570d9/transformed/firebase-database-collection-18.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/292e81c80ab23544aa4642a5030268c1/transformed/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/292e81c80ab23544aa4642a5030268c1/transformed/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f50037d2f0dc0c26c3fec7535fbfa4b9/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f50037d2f0dc0c26c3fec7535fbfa4b9/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b506e1c9e863853d36377b285ee3473e/transformed/firebase-analytics-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b506e1c9e863853d36377b285ee3473e/transformed/firebase-analytics-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2043457c7833b1db69044f4754b0ef/transformed/firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2043457c7833b1db69044f4754b0ef/transformed/firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3434c465fd4c5a7cef643cedf90e31fb/transformed/firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3434c465fd4c5a7cef643cedf90e31fb/transformed/firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/0cee017d82e19203f3e258ee7d46037b/transformed/firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/0cee017d82e19203f3e258ee7d46037b/transformed/firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2d652dd5c167d95ef0c23b90e3a801/transformed/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2d652dd5c167d95ef0c23b90e3a801/transformed/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/e22ec2a86bc857a0246d51a8a16b04d5/transformed/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/e22ec2a86bc857a0246d51a8a16b04d5/transformed/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b15c612b686a98e6e26393e875ce4dd2/transformed/play-services-measurement-impl-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b15c612b686a98e6e26393e875ce4dd2/transformed/play-services-measurement-impl-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/bd31689b3cc0de059dbd681816ea9d82/transformed/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/bd31689b3cc0de059dbd681816ea9d82/transformed/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f8266185c802609dfa880cbc6dbf0087/transformed/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f8266185c802609dfa880cbc6dbf0087/transformed/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/dbf6f221e1a6d0464fb9861d7cdd5a93/transformed/play-services-measurement-base-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/dbf6f221e1a6d0464fb9861d7cdd5a93/transformed/play-services-measurement-base-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/444a5b3b3cdbae4d2e521c5d819a48b3/transformed/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/444a5b3b3cdbae4d2e521c5d819a48b3/transformed/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/895fc85a8816eba2d8323c3040a812e9/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/895fc85a8816eba2d8323c3040a812e9/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/1243b41399fe91fad0eda836f5d09fc2/transformed/play-services-basement-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/1243b41399fe91fad0eda836f5d09fc2/transformed/play-services-basement-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/youssefiskander/.gradle/caches/transforms-3/5bbbbfddecb682ccd678abd0d06605d1/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/youssefiskander/.gradle/caches/transforms-3/5bbbbfddecb682ccd678abd0d06605d1/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /Users/youssefiskander/.gradle/caches/transforms-3/5e32d2701d1e556eac05badb47d3711e/transformed/navigation-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /Users/youssefiskander/.gradle/caches/transforms-3/5e32d2701d1e556eac05badb47d3711e/transformed/navigation-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/youssefiskander/.gradle/caches/transforms-3/bcd9de11b2a200f975afca59611e23ea/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/youssefiskander/.gradle/caches/transforms-3/bcd9de11b2a200f975afca59611e23ea/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/cada2ec9cf0d559236be88eb6a51cd2d/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/cada2ec9cf0d559236be88eb6a51cd2d/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/0ea2368076fad891bc70a0a9ecb720ec/transformed/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/0ea2368076fad891bc70a0a9ecb720ec/transformed/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3ce9b9fb0a171df1b019c291e6c75dc9/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3ce9b9fb0a171df1b019c291e6c75dc9/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/c9f24c50d501d216174de629b40a5e33/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/c9f24c50d501d216174de629b40a5e33/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/e0df456009e06b851d1353ff5b9e7d0c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/e0df456009e06b851d1353ff5b9e7d0c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/f5f7a1d03e47e040ae9e2a271cc5a482/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/f5f7a1d03e47e040ae9e2a271cc5a482/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/17e62d291c290875292013b1fa16447b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/17e62d291c290875292013b1fa16447b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/d21e2ca777cfbfdfb6d09db5fa4a49fc/transformed/drawerlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/d21e2ca777cfbfdfb6d09db5fa4a49fc/transformed/drawerlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/youssefiskander/.gradle/caches/transforms-3/a01d9cb78215da8a68b8a7c94f9736b6/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/youssefiskander/.gradle/caches/transforms-3/a01d9cb78215da8a68b8a7c94f9736b6/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/229421394c395a01f711c94f375d0384/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/229421394c395a01f711c94f375d0384/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/b56f98a9c85118ecf9a4d033222d5966/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/b56f98a9c85118ecf9a4d033222d5966/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/90eb3332d2828bda796aefec4f2ed29f/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/90eb3332d2828bda796aefec4f2ed29f/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/ee232d44c171c639e1d7a8813446ddf1/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/ee232d44c171c639e1d7a8813446ddf1/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/46c7afe2f779c98cd40b0baf421fa70d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/46c7afe2f779c98cd40b0baf421fa70d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3f9c5c364e313da4c551d4e576805158/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3f9c5c364e313da4c551d4e576805158/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.3.0] /Users/youssefiskander/.gradle/caches/transforms-3/e68590959865ae70a1cf85e30dac5bfa/transformed/navigation-common-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] /Users/youssefiskander/.gradle/caches/transforms-3/e68590959865ae70a1cf85e30dac5bfa/transformed/navigation-common-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/61e996d0b4adf17483f1ea505f9e64e7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/61e996d0b4adf17483f1ea505f9e64e7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/1605deb2d9935df5a1bd1d601b15df28/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/1605deb2d9935df5a1bd1d601b15df28/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/youssefiskander/.gradle/caches/transforms-3/68bce1ad376ed5b9406899de4e9966ab/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/youssefiskander/.gradle/caches/transforms-3/68bce1ad376ed5b9406899de4e9966ab/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/901338864ae6c6e45e8b80fe7ced7147/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/901338864ae6c6e45e8b80fe7ced7147/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/fe1f519b2e37fa2d39bf8195a09592b9/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/fe1f519b2e37fa2d39bf8195a09592b9/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/d66d550817bb214b0a87885f76bce415/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/d66d550817bb214b0a87885f76bce415/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/1a5a7a9882e9f48e061155f2b0d52ca1/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/1a5a7a9882e9f48e061155f2b0d52ca1/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/youssefiskander/.gradle/caches/transforms-3/bb72f5c9a8b2888f1feb2b48171fef34/transformed/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/youssefiskander/.gradle/caches/transforms-3/bb72f5c9a8b2888f1feb2b48171fef34/transformed/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/7a01b143b28a9a9b38b3d65a41c235a0/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/7a01b143b28a9a9b38b3d65a41c235a0/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/96533eb509fa457ff212fe655c1822d8/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/96533eb509fa457ff212fe655c1822d8/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/0adfb8c3c35fa2a2bc791b132f3e9558/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/0adfb8c3c35fa2a2bc791b132f3e9558/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f9a4b49c60dc754e68cf9e0157dd0927/transformed/firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f9a4b49c60dc754e68cf9e0157dd0927/transformed/firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/youssefiskander/.gradle/caches/transforms-3/ceda8dd758a1ec94e31b90c3a654dd6c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/youssefiskander/.gradle/caches/transforms-3/ceda8dd758a1ec94e31b90c3a654dd6c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/8501c8a826f012f3dac1cdb29b8a227a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/8501c8a826f012f3dac1cdb29b8a227a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/youssefiskander/.gradle/caches/transforms-3/e23c6ade7c43a1a21c7e200cfdf4fbf0/transformed/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/youssefiskander/.gradle/caches/transforms-3/e23c6ade7c43a1a21c7e200cfdf4fbf0/transformed/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/youssefiskander/.gradle/caches/transforms-3/7cf58a6351c126c52b4cc35f1101f4be/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/youssefiskander/.gradle/caches/transforms-3/7cf58a6351c126c52b4cc35f1101f4be/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/youssefiskander/.gradle/caches/transforms-3/2f764e2cba547f7c3ee4440361944487/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/youssefiskander/.gradle/caches/transforms-3/2f764e2cba547f7c3ee4440361944487/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/26bc3f3259bd58376c8c8b4820af4eab/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/youssefiskander/.gradle/caches/transforms-3/26bc3f3259bd58376c8c8b4820af4eab/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/dbd2a606c73b270779b5c9be90991f0d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/dbd2a606c73b270779b5c9be90991f0d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/12668bb07e7f24d0585fa902ab338913/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/12668bb07e7f24d0585fa902ab338913/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/4b267d7f2967f86d5ee14ee839c09df8/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/4b267d7f2967f86d5ee14ee839c09df8/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/e4f6e5452622a1b51bd4ab0c44c2db1c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/e4f6e5452622a1b51bd4ab0c44c2db1c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/25f35b40da736ef9bbb6e353ad748032/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/25f35b40da736ef9bbb6e353ad748032/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youssefiskander/AndroidStudioProjects/MedicalClinicApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:20.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/7221a69688f936019a5fc568a60a8c8f/transformed/firebase-database-20.0.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2043457c7833b1db69044f4754b0ef/transformed/firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2043457c7833b1db69044f4754b0ef/transformed/firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b15c612b686a98e6e26393e875ce4dd2/transformed/play-services-measurement-impl-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b15c612b686a98e6e26393e875ce4dd2/transformed/play-services-measurement-impl-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f8266185c802609dfa880cbc6dbf0087/transformed/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f8266185c802609dfa880cbc6dbf0087/transformed/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/7221a69688f936019a5fc568a60a8c8f/transformed/firebase-database-20.0.1/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:20.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/7221a69688f936019a5fc568a60a8c8f/transformed/firebase-database-20.0.1/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2043457c7833b1db69044f4754b0ef/transformed/firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2043457c7833b1db69044f4754b0ef/transformed/firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b15c612b686a98e6e26393e875ce4dd2/transformed/play-services-measurement-impl-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b15c612b686a98e6e26393e875ce4dd2/transformed/play-services-measurement-impl-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f8266185c802609dfa880cbc6dbf0087/transformed/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f8266185c802609dfa880cbc6dbf0087/transformed/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/7221a69688f936019a5fc568a60a8c8f/transformed/firebase-database-20.0.1/AndroidManifest.xml:26:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:20.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/7221a69688f936019a5fc568a60a8c8f/transformed/firebase-database-20.0.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2043457c7833b1db69044f4754b0ef/transformed/firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2043457c7833b1db69044f4754b0ef/transformed/firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3434c465fd4c5a7cef643cedf90e31fb/transformed/firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3434c465fd4c5a7cef643cedf90e31fb/transformed/firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:20.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/7221a69688f936019a5fc568a60a8c8f/transformed/firebase-database-20.0.1/AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3434c465fd4c5a7cef643cedf90e31fb/transformed/firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3434c465fd4c5a7cef643cedf90e31fb/transformed/firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/7221a69688f936019a5fc568a60a8c8f/transformed/firebase-database-20.0.1/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/7221a69688f936019a5fc568a60a8c8f/transformed/firebase-database-20.0.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/7221a69688f936019a5fc568a60a8c8f/transformed/firebase-database-20.0.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/7221a69688f936019a5fc568a60a8c8f/transformed/firebase-database-20.0.1/AndroidManifest.xml:33:17-109
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/youssefiskander/.gradle/caches/transforms-3/b5005a50f9e588e6562b58a314de0cf4/transformed/firebase-auth-21.0.1/AndroidManifest.xml:78:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/292e81c80ab23544aa4642a5030268c1/transformed/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/292e81c80ab23544aa4642a5030268c1/transformed/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/292e81c80ab23544aa4642a5030268c1/transformed/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/292e81c80ab23544aa4642a5030268c1/transformed/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b15c612b686a98e6e26393e875ce4dd2/transformed/play-services-measurement-impl-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b15c612b686a98e6e26393e875ce4dd2/transformed/play-services-measurement-impl-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f8266185c802609dfa880cbc6dbf0087/transformed/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/f8266185c802609dfa880cbc6dbf0087/transformed/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/fd0bddb23f5f97bc90320e345b59b19a/transformed/play-services-measurement-api-19.0.0/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2043457c7833b1db69044f4754b0ef/transformed/firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2043457c7833b1db69044f4754b0ef/transformed/firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/2d2043457c7833b1db69044f4754b0ef/transformed/firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3434c465fd4c5a7cef643cedf90e31fb/transformed/firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3434c465fd4c5a7cef643cedf90e31fb/transformed/firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3434c465fd4c5a7cef643cedf90e31fb/transformed/firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3434c465fd4c5a7cef643cedf90e31fb/transformed/firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3434c465fd4c5a7cef643cedf90e31fb/transformed/firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/3434c465fd4c5a7cef643cedf90e31fb/transformed/firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b15c612b686a98e6e26393e875ce4dd2/transformed/play-services-measurement-impl-19.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/b15c612b686a98e6e26393e875ce4dd2/transformed/play-services-measurement-impl-19.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/youssefiskander/.gradle/caches/transforms-3/5f024576e9aaa3ece6169fd98d40ef2b/transformed/play-services-measurement-19.0.0/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/1243b41399fe91fad0eda836f5d09fc2/transformed/play-services-basement-17.1.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/1243b41399fe91fad0eda836f5d09fc2/transformed/play-services-basement-17.1.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] /Users/youssefiskander/.gradle/caches/transforms-3/1243b41399fe91fad0eda836f5d09fc2/transformed/play-services-basement-17.1.0/AndroidManifest.xml:24:13-58
