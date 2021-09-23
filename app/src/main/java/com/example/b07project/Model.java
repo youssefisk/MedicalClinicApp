@@ -36,17 +36,7 @@ public class Model {
 
 
     public int userIsFound(String email, String password) {
-        //int k = 0;
-        // if(emails.contains(email)){
-        //search in database
-        //if(password matches with the email)
-        //return true;
-        //else
-        //return false;
-        //}
 
-        //else
-        //return false;
 
         auth = FirebaseAuth.getInstance();
 

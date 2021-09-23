@@ -156,17 +156,6 @@ public class DoctorPatientCheckupActivity extends AppCompatActivity {
     }
 
 
-//    public void getDocNames(String docID) {
-//
-//        ArrayList<Doctor> attendees = new ArrayList<Doctor>();
-//        FirebaseDatabase.getInstance().getDoctorNameFromID(docID, new Callable<List<Doctor>) {
-//            void callback (List<Doctor>, attendees) {
-//
-//            }
-//        } ;
-//
-//
-//    }
 
     public String getDoctorNameFromID(String docID){
         DatabaseReference ref = FirebaseDatabase.getInstance().getReference().child("doctors");

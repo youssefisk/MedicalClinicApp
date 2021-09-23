@@ -129,19 +129,7 @@ public class LoginPage extends AppCompatActivity {
     }
 
     public void userLogin(String email, String password) {
-//        String[] printmsg;
-//        printmsg = Presenter.checkLoginDetails(email, password);
-//
-//        if(!printmsg[0].equals("")) {
-//            loginEmail.setError(printmsg[0]);
-//            loginEmail.requestFocus();
-//            return;
-//        }
-//        if(!printmsg[1].equals("")) {
-//            loginPassword.setError(printmsg[1]);
-//            loginPassword.requestFocus();
-//            return;
-//        }
+
 
         progressBar.setVisibility(View.VISIBLE);
 
@@ -193,24 +181,7 @@ public class LoginPage extends AppCompatActivity {
                                         }
                                     });
                         }
-                    });//.addOnCompleteListener(LoginPage.this,new OnCompleteListener<AuthResult>() {
-//                            @Override
-//                            public void onComplete(@NonNull Task<AuthResult> task) {
-//                                ;
-//
-//                                //test code
-////                                checkIfDoc[0] = true;
-
-//                    if (checkIfDoc[0]) {
-//                        startActivity(new Intent(LoginPage.this, DoctorActivity.class));
-//                    } else {
-                    //Else not a doctor and login via patientlogin
-//                        startActivity(new Intent(LoginPage.this, PatientActivity.class));
-//                    }
-//                            }
-//                        });
-
-                    //If authentication fails
+                    });
                 } else {
                     progressBar.setVisibility(View.INVISIBLE);
                     new AlertDialog.Builder(pageContext)
@@ -225,10 +196,6 @@ public class LoginPage extends AppCompatActivity {
                                 }
                             });
 
-                    // A null listener allows the button to dismiss the dialog and take no further action.
-//                            .setNegativeButton(android.R.string.no, null)
-//                            .setIcon(android.R.drawable.ic_dialog_alert)
-//                            .show();
                 }
 
             }

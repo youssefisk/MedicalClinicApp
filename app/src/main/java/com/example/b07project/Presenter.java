@@ -22,12 +22,7 @@ public class Presenter {
             view.displayMessage("password cannot be empty");
         else if(password.length() < 6)
             view.displayMessage("The minimum password length is 6 characters");
-//         else if(model.userIsFound(email, password) == true) {
-//             view.displayMessage("trying to login");
-//             view.userLogin(email, password);
-//         }
-//         else if(!Patterns.EMAIL_ADDRESS.matcher(email).matches())
-//             view.displayMessage("Please enter a valid email!");
+
         else{
             int checker = model.userIsFound(email, password);
             if(checker==0)
