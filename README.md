@@ -1,4 +1,4 @@
-MEDICAL CLINIC APP
+***MEDICAL CLINIC APP***
 
 An application created using Android Studio, Java and Firebase DB to serve patients and doctors at a medical clinic. Patients are able to sign up/log in to book appointments, view upcoming appointments and view available doctors. Doctors are able to log in to view upcoming appointments, patient history and their availability.
 
